@@ -133,3 +133,5 @@ data/fashionmnist/t10k-images-idx3-ubyte
 data/fashionmnist/t10k-labels-idx1-ubyte
 data/fashionmnist/train-images-idx3-ubyte
 data/fashionmnist/train-labels-idx1-ubyte
+data/fashionmnist/mnist_test.csv
+data/fashionmnist/mnist_train.csv
