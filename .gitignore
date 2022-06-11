@@ -135,3 +135,5 @@ data/fashionmnist/train-images-idx3-ubyte
 data/fashionmnist/train-labels-idx1-ubyte
 data/fashionmnist/mnist_test.csv
 data/fashionmnist/mnist_train.csv
+tblogs/
+checkpoints/
