@@ -137,6 +137,6 @@ data/fashionmnist/mnist_test.csv
 data/fashionmnist/mnist_train.csv
 tblogs/
 checkpoints/
-
+data/clothing-dataset-subset/
 /models/*.pkl
 
